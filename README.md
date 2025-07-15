@@ -3,8 +3,7 @@
 This project is an educational implementation of an automated Gmail workflow using [CrewAI](https://github.com/crewAIInc/crewAI) and [LangGraph](https://github.com/langchain-ai/langgraph).<br> The workflow is inspired by the work of [@joaomdmoura](https://x.com/joaomdmoura) and the CrewAI + LangGraph integration example by CrewAI Inc.<br> It demonstrates how to build a stateful, agent-based system for processing and responding to emails using modern AI tools.
 [CrewAI + LangGraph example](https://github.com/crewAIInc/crewAI-examples/tree/main/CrewAI-LangGraph)
 
-<img src="./diagram.png" alt="Workflow Diagram" width="50%" />
-
+<img src="./Diagram.png" alt="Workflow Diagram" width="50%" />
 
 ## Features
 - **Automated Gmail Monitoring:** Checks your Gmail inbox for new emails using the Gmail API.
